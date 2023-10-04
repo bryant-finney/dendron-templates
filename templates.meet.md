@@ -2,7 +2,7 @@
 id: 68mih84efhiw67ppm8kcs55
 title: Meet
 desc: This template can be used to create meeting notes.
-updated: 1696449649740
+updated: 1696451329428
 created: 1696448423891
 ---
 
@@ -21,7 +21,7 @@ created: 1696448423891
 
 <!-- Agenda to be covered in the meeting -->
 
-## Minutes
+## Notes
 
 <!-- Notes of discussion occurring during the meeting -->
 
