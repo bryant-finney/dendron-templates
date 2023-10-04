@@ -2,9 +2,15 @@
 id: kxbdg9yohlz8znl0hqzqfbr
 title: Interview
 desc: This template can be used to take notes from interviews.
-updated: 1696451541083
+updated: 1696452042251
 created: 1696451243745
+event: TODO
+traitIds:
+  - meetingNote
+TODO: add calendar event URL
 ---
+
+## [📅 Calendar event]({{fm.event}})
 
 ## Attendees
 
