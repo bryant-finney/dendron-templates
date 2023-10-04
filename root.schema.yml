@@ -1,7 +1,16 @@
 version: 1
 imports: []
 schemas:
-  - id: root
-    children: []
-    title: root
+  - id: README
     parent: root
+    title: README
+  - children:
+      - templates
+      - meet
+    id: templates
+    namespace: true
+    parent: root
+    title: templates
+  - id: meet
+    parent: templates
+    title: meet

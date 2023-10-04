@@ -1,9 +1,7 @@
 ---
-id: rc5w6jvj4qhgr7j3lskn05o
+id: wab9e9ajkoc1mxbpvvw86ib
 title: Root
 desc: ""
-updated: 1696448253549
-created: 1696447265546
+updated: 1696450868074
+created: 1696450573668
 ---
-
-# Welcome to Dendron

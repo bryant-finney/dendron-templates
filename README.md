@@ -1,8 +1,8 @@
 ---
 id: beu2abfgqav6cjyvx8baft0
 title: README
-desc: ""
-updated: 1696448235461
+desc: "Overview of the templates repo."
+updated: 1696451060891
 created: 1696447519397
 ---
 
@@ -12,7 +12,11 @@ This repository provides a collection of note templates for Dendron. You can use
 
 To use these templates, simply add this repo to your workspace [as an existing vault](https://wiki.dendron.so/notes/6682fca0-65ed-402c-8634-94cd51463cc4/#remote-vault).
 
-## Lookup
+## Overview
+
+![[templates]]
+
+## References
 
 The following links provide additional information about Dendron and its template system:
 
