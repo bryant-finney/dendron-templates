@@ -4,13 +4,7 @@ schemas:
   - id: README
     parent: root
     title: README
-  - children:
-      - templates
-      - meet
-    id: templates
+  - id: templates
     namespace: true
     parent: root
     title: templates
-  - id: meet
-    parent: templates
-    title: meet

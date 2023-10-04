@@ -1,7 +1,7 @@
 ---
 id: beu2abfgqav6cjyvx8baft0
 title: README
-desc: "Overview of the templates repo."
+desc: Overview of the templates repo.
 updated: 1696451060891
 created: 1696447519397
 ---

@@ -2,8 +2,10 @@
 id: 68mih84efhiw67ppm8kcs55
 title: Meet
 desc: This template can be used to create meeting notes.
-updated: 1696451329428
+updated: 1696453766595
 created: 1696448423891
+traitIds:
+  - meetingNote
 ---
 
 ## Attendees

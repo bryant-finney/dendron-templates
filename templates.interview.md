@@ -1,18 +1,19 @@
 ---
-id: kxbdg9yohlz8znl0hqzqfbr
+id: 8p8qddkgzjabgy4c5xqg0bn
 title: Interview
 desc: This template can be used to take notes from interviews.
-updated: 1696452471867
+updated: 1696455931981
 created: 1696451243745
-date: TODO
+onDate: TODO
 event: TODO
 traitIds:
   - meetingNote
-TODO: add calendar event URL
-TODO: add the date of the interview
+TODO: |-
+  - [ ] add calendar event URL
+  - [ ] add the date of the interview
 ---
 
-## [📅 Calendar event]({{fm.event}}) ({{fm.date}})
+## [📅 Calendar event]({{fm.event}}) ({{fm.onDate}})
 
 ## Attendees
 
