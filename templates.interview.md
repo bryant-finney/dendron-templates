@@ -4,10 +4,10 @@ title: Interview
 desc: This template can be used to take notes from interviews.
 updated: 1696455931981
 created: 1696451243745
-onDate: TODO
-event: TODO
 traitIds:
   - meetingNote
+onDate: TODO
+event: TODO
 TODO: |-
   - [ ] add calendar event URL
   - [ ] add the date of the interview
