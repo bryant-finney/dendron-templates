@@ -22,6 +22,10 @@ TODO: |-
 - @
 - @
 
+## Questions
+
+<!-- Prepared questions etc. can go in this section -->
+
 ## Notes
 
 <!-- Notes of discussion occurring during the meeting -->
